@@ -1,7 +1,7 @@
 <h1>Hii I'm MAHI SHARMA👋</h1> 
 
 # 💫 About Me:
-👾 I’m Currently Working on <b>Full Stack Development</b><br> 🎗️ I’m Currently Learning <b>React.js</b> and <b>Node.js</b><br>✌️ I'm Looking to Collaborate on <b>Open Source</b><br>🏆<b> Winner</b> of CreateX with my team <b>'Metaverse Realms'</b> for building an immersive <b>Virtual Co-Working Office Platform</b><br><br>
+👾 I’m Currently Working on <b>Full Stack Development</b><br> 🎗️ Learning <b>React.js</b> and <b>Node.js</b><br>✌️ Looking to Collaborate on <b>Open Source</b><br>🏆<b> Winner</b> of CreateX with my team <b>'Metaverse Realms'</b> for building an immersive <b>Virtual Co-Working Office Platform</b><br><br>
 
 
 ## 🌐 Socials:
